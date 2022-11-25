@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aastha Anand
 - 👀 I’m interested in Web Development and Open Source Contribution.
 - 🌱 I’m currently learning DSA in C++
-- 👩🏻 Pronouns: She / Her
+- 👩 Pronouns: She / Her
 - 🤝 Let's connect on:
 - Instagram: https://www.instagram.com/aastha_anand09/
 - LinkedIn: https://www.linkedin.com/in/aastha-anand-719194224/
